@@ -1,4 +1,3 @@
-# Keno-Game
 # Keno Game — CS342 Project 2 (Fall 2025)
 
 ##Overview
