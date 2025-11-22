@@ -38,3 +38,5 @@ Includes **JUnit 5 test cases** for validating core logic:
 - Matching logic between user and drawn numbers.
 - Random draw generation.
 - Prize calculation for different spot counts.
+
+![Watch the video](thumbnail.png)](https://link-to-video)
