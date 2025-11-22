@@ -1,4 +1,4 @@
-# Keno Game — CS342 Project 2 (Fall 2025)
+# Keno Game
 
 ##Overview
 This project is a fully functional **Keno Lottery Game** built with **JavaFX**.  
