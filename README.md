@@ -39,4 +39,4 @@ Includes **JUnit 5 test cases** for validating core logic:
 - Random draw generation.
 - Prize calculation for different spot counts.
 
-![Watch the video](thumbnail.png)](https://link-to-video)
+![Watch the video](thumbnail.png)](https://youtu.be/epPIW_7VcVU)
